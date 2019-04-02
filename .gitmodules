@@ -1,0 +1,3 @@
+[submodule "path_to_test_submodule"]
+	path = path_to_test_submodule
+	url = https://github.com/Blubberchub/Test.git
